@@ -1,2 +1,2 @@
 # Pembelajaran-Mesin
-aaaaaaaaaaaaa
+Ditujukan untuk pengumpulan tugas matakuliah Pembelajaran Mesin
